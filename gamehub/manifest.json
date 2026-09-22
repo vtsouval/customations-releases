@@ -1,11 +1,11 @@
 {
-  "versionCode": 29834842,
+  "versionCode": 29834873,
   "abi": "armeabi-v7a",
-  "url": "https://github.com/vtsouval/customations-releases/releases/download/gamehub%2Fbuild-29834842/GameHub-TV.apk",
-  "sha256": "9f17467f723861f99eae6a16687464332fa3eaf08ff5bea53c21312dfe9acc47",
+  "url": "https://github.com/vtsouval/customations-releases/releases/download/gamehub%2Fbuild-29834873/GameHub-TV.apk",
+  "sha256": "91772503759e001583b2a5de0e6bc84d102abd63bcbbeb497e0fda9f4bc1e416",
   "files": {
-    "GameHub-TV-unsigned.apk": "d450e1356b1508988a4803c5bead706b98daf5a1610364fe8744695438620af3",
-    "GameHubAgent.exe": "b788d63558663e18311c3c383f77012c788284a02a615042daca12d5d1c13ed2",
-    "GameHub-TV.apk": "9f17467f723861f99eae6a16687464332fa3eaf08ff5bea53c21312dfe9acc47"
+    "GameHubAgent.exe": "23b39986fe4eba5c1a7c1c063db7eb4a666b610ff6134a988c6043a5ca57c6d2",
+    "GameHub-TV.apk": "91772503759e001583b2a5de0e6bc84d102abd63bcbbeb497e0fda9f4bc1e416",
+    "GameHub-TV-unsigned.apk": "1b20b92c297d0f77da22e7cd0eafea74a3df426e1274093ba2ff4eebd29a41cc"
   }
 }
